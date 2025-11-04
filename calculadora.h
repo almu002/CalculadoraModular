@@ -21,4 +21,6 @@
  * @return Devuelve 0 si el divisor es 0.
  */
  int dividir(int a, int b);
+ 
+ int potencia(int base, int exponente);
 #endif
