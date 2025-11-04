@@ -21,6 +21,12 @@
  * @return Devuelve 0 si el divisor es 0.
  */
  int dividir(int a, int b);
- 
+
+ /**
+ * @brief Calcula la potencia de un número.
+ * @param base Número base.
+ * @param exponente Exponente al que se eleva la base.
+ * @return Resultado de base^exponente.
+ */
  int potencia(int base, int exponente);
 #endif
